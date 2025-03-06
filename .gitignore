@@ -1,5 +1,5 @@
 venv/
-.venv
+.env
 _pycache_/
 .DS_Store
 Regression_4.pdf
