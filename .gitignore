@@ -1,0 +1,7 @@
+venv/
+.venv
+_pycache_/
+.DS_Store
+Regression_4.pdf
+skewness_kurtosis.pdf
+Theory_Sampling_3.pdf
